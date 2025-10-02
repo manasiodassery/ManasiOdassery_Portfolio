@@ -21,4 +21,10 @@ Here, you’ll find my key projects and experiences.
 ### 3. Bhoomi – Agricultural Assistant (Nov 2024)  
 - **Why it matters for you:** Smarter farming decisions help optimize resources and increase productivity.  
 - **What I did:** Built ML models with CNNs + weather APIs for crop, fertilizer, and irrigation recommendations.  
-- **What you get:** More efficient irrigation, better crop predictions, and a scalable tool for agricultural planning.  
+- **What you get:** More efficient irrigation, better crop predictions, and a scalable tool for agricultural planning.
+
+### 4. Smart Supply Chain Management (Dec 2023)  
+- **Why it matters for you:** Efficient supply chains reduce costs, improve delivery times, and boost customer satisfaction.  
+- **What I did:** Developed ML models to predict late deliveries and optimize inventory, applied clustering and segmentation to understand demand drivers, and created interactive Tableau dashboards for KPI tracking.  
+- **What you get:** Improved planning, reduced delays, and data-driven insights to strengthen fulfillment efficiency.  
+
