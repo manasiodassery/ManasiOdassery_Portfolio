@@ -1,4 +1,4 @@
-# ManasiOdassery_Portfolio
+# Manasi Odassery Portfolio
 **Data Analyst | Data Scientist | Business Analyst | M.Tech Data Science**  
 
 
