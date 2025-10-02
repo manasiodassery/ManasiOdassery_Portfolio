@@ -6,7 +6,7 @@ Welcome to my portfolio.
 I’m a Data Science graduate focused on applying machine learning and analytics to solve real-world problems.
 Here, you’ll find my key projects and experiences.
 
-##Projects
+## Projects
 
 ### 1. Fundly.ai – Data Analyst Intern (Mar 2025–Jun 2025)  
 - **Why it matters for you:** Predicting customer behavior and reducing risk enables better sales targeting and safer lending.  
