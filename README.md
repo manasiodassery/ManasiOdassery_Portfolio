@@ -28,3 +28,12 @@ Here, you’ll find my key projects and experiences.
 - **What I did:** Developed ML models to predict late deliveries and optimize inventory, applied clustering and segmentation to understand demand drivers, and created interactive Tableau dashboards for KPI tracking.  
 - **What you get:** Improved planning, reduced delays, and data-driven insights to strengthen fulfillment efficiency.  
 
+**What you’ll get if you work with me:**  
+- A problem solver who can turn data into practical business solutions.  
+- Someone who blends technical skills (Python, SQL, Tableau, ML) with strong communication.  
+- A fast learner who adapts quickly and enjoys making analytics simple and actionable.  
+
+## Contact  
+- **Email:** manasihodassery@gmail.com  
+- **LinkedIn:** [linkedin.com/in/manasi-odassery](https://linkedin.com/in/manasi-odassery)  
+- **GitHub:** [github.com/manasi-odassery](https://github.com/manasi-odassery)  
